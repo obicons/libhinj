@@ -2,7 +2,7 @@
 
 `libhinj` is an API to provide communication between autonomous
 vehicles and a model checking engine. Currently,
-[Avis](https://github.com/obicons/libhinj) supports using `libhinj` to
+[Avis](https://github.com/obicons/avis) supports using `libhinj` to
 conduct model checking.
 
 ## Build & Install
