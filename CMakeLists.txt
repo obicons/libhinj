@@ -8,7 +8,7 @@ set_target_properties(hinj PROPERTIES
                       SOVERSION 0
                       PUBLIC_HEADER libhinj.h)
 
-add_executable(test test.c)
+#add_executable(test test.c)
 target_link_libraries(test hinj)
 
 install(TARGETS hinj
